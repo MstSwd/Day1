@@ -5,4 +5,4 @@
 ### Days3
 
 
-![](models.jpg)
+![](models)
