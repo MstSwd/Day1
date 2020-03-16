@@ -1,1 +1,1 @@
-![](model s.jpeg)
+![](model s.jpg)
